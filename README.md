@@ -91,7 +91,7 @@ SPA/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/elbachirzriguinat1-byte/Proyecto-SPA-BOP.git
 cd SPA
 ```
 
